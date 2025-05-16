@@ -6,3 +6,6 @@
 
 ## Simulador de Compra e Venda de Bitcoin
 ![image](https://github.com/user-attachments/assets/398568a0-690f-4d07-9db7-9c8d99b8b047)
+
+## Admin Financeiro
+![image](https://github.com/user-attachments/assets/04c07b20-10a8-4068-b4ea-dea63ed5d490)
