@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4c813076-9af5-497b-ad07-3de9e0c974da)
+
 ## Simulador De venda de Bitcoin
 ![image](https://github.com/user-attachments/assets/21a4c6eb-2ad4-470c-b0b5-77220e5e6f04)
 
