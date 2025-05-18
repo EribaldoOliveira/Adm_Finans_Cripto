@@ -11,3 +11,6 @@
 
 ## Admin Financeiro
 ![image](https://github.com/user-attachments/assets/04c07b20-10a8-4068-b4ea-dea63ed5d490)
+
+## Agenda
+![image](https://github.com/user-attachments/assets/7e2a9ebf-3ffa-4eb9-b454-01126317e367)
