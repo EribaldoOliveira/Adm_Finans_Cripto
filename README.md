@@ -14,3 +14,6 @@
 
 ## Agenda
 ![image](https://github.com/user-attachments/assets/7e2a9ebf-3ffa-4eb9-b454-01126317e367)
+
+## Simulador de Conversão de Reais para Bitcoin
+![image](https://github.com/user-attachments/assets/3dc7eb7d-256f-43ca-beba-be67c6c3d398)
